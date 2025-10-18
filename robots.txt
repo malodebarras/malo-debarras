@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /Fonts/
+Disallow: /img/
+Disallow: /video/
+Disallow: /scroll-fade.js
+Disallow: /style.css
+
+Sitemap: https://www.malonettoyage.ch/sitemap.xml
